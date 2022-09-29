@@ -1,1 +1,1 @@
-# learngitKatie
+hello Rick
